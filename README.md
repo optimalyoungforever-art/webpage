@@ -1,4 +1,10 @@
-Got it! Here's your updated index.html with your email and name included:
+Got it! Here's your updated index.html wit
+
+
+
+
+
+
 Html
 Copy code
 <!DOCTYPE html>
@@ -52,7 +58,3 @@ Copy code
 </body>
 </html>
 Changes:
-Title updated to "Richard's Website."
-About Me section: Added a small paragraph introducing you, Richard.
-Contact section: Included your email as a mailto link for easy contact.
-Let me know if you want any other customizations!
